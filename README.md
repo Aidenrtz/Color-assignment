@@ -61,5 +61,4 @@
                 <td>rgb(241, 196, 15)</td>
                 <td>hsl(45, 91%, 50%)</td>
             </tr>
-        </tbody>
     </table>
