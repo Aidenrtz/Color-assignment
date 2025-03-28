@@ -25,9 +25,9 @@
 </head>
 <body>
 
-  <h1 style="text-align:center; font-style:italic;">Color Scheme Example</h1>
+ <h1 style="text-align:center; font-style:italic;">Color Scheme Example</h1>
 
-  <table border="1">
+ <table border="1">
         <thead>
             <tr>
                 <th>Color Name</th>
