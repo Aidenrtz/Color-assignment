@@ -1,6 +1,33 @@
- <h1 style="text-align:center; font-style:italic;">Color Scheme Example</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Scheme</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            font-style: italic;
+            font-weight: bold;
+        }
+        td {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
 
- <table border="1">
+   <h1 style="text-align:center; font-style:italic;">Aiden's Color Scheme Example</h1>
+
+   <table border="1">
         <thead>
             <tr>
                 <th>Color Name</th>
@@ -36,6 +63,3 @@
             </tr>
         </tbody>
     </table>
-
-</body>
-</html>
