@@ -11,7 +11,7 @@
             margin: 20px 0;
         }
         th, td {
-            padding: 10px;
+            padding: 10px; 
             text-align: center;
         }
         th {
