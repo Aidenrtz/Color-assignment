@@ -8,7 +8,7 @@
         table {
             width: 100%;
             border-collapse: collapse;
-            margin: 20px 0;
+            margin: 20px0;
         }
         th, td {
             padding: 10px; 
